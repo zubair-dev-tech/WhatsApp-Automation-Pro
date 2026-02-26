@@ -34,18 +34,11 @@ This repository contains a professional-grade WhatsApp automation module. It is 
    ```bash
    git clone [https://github.com/zubair-dev-tech/WhatsApp-Automation-Pro.git](https://github.com/zubair-dev-tech/WhatsApp-Automation-Pro.git)
 
-   Install dependencies:
+Install dependencies:
 
-Bash
 pip install pyautogui pywhatkit
+
 Run the script:
+
 Connect it with your main voice assistant brain or run it directly to test automation.
 
-👤 About the Author
-Developed by Mohammed Zubair, a BSCS student and AI Automation enthusiast from Rahim Yar Khan, Pakistan.
-
-GitHub: @zubair-dev-tech
-
-Specialization: AI Assistants, Web Development, & System Automation.
-
-"Automating the world, one message at a time."
